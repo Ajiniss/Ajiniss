@@ -9,10 +9,11 @@
 ###
 
 <h3 align="left">🍋 About Me</h3>
+<p align="left">A weird musician who loves fighting games 🕹️ and programming 🦀</p>
+
+<h1></h1>
 
 ###
-
-<p align="left">A weird musician who loves fighting games 🕹️ and programming 🦀</p>
 
 <h4 align="center"> 🛠 Language and tools </h4>
 
