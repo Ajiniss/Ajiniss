@@ -12,19 +12,9 @@
 
 ###
 
-<p align="left">A weird musician who loves **fighting games** 🕹️ and **programming** 🦀</p>
+<p align="left">A weird musician who loves fighting games 🕹️ and programming 🦀</p>
 
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/ajinis.">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ajinis.&count=3&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<h4 align="center"> ***🛠 Language and tools*** </h4>
+<h4 align="center"> 🛠 Language and tools </h4>
 
 ###
 
