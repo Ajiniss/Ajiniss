@@ -1,17 +1,10 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/mjnyuSrQs4ik0/giphy.gif?cid=ecf05e47s6i9u5fg1ufu5qt7a9x2zkrj2t37uyb8r0ybbvsj&ep=v1_stickers_search&rid=giphy.gif&ct=s"  />
-</div>
+<img align="left" src="https://raw.githubusercontent.com/Ajiniss/Ajiniss/refs/heads/master/img/ash.gif">
 
-###
+### Hi
 
-<h1 align="center">Hi, i'm Ajinis</h1>
+🍋 I'm **Ajinis**.
 
-###
-
-<h3 align="left">🍋 About Me</h3>
-<p align="left">A weird musician who loves fighting games 🕹️ and programming 🦀</p>
-
-<h1></h1>
+🦀 A weird musician who loves fighting games 🕹️ and programming
 
 ###
 
@@ -34,9 +27,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Ajiniss/Ajiniss/output/snake.svg" alt="Snake animation" />
-
-###
