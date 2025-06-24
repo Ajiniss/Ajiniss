@@ -1,4 +1,4 @@
-<img align="left" src="https://raw.githubusercontent.com/Ajiniss/Ajiniss/refs/heads/master/img/ash.gif">
+<img align="left" src="https://raw.githubusercontent.com/Ajiniss/Ajiniss/refs/heads/main/img/ash.gif">
 
 ### Hi
 
